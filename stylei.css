@@ -1,0 +1,1763 @@
+@media only screen and (max-width: 1440px) and (min-width: 1025px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed center;
+    background-size: 100%;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: -20px;
+    right: 30%;
+    width: 50%;
+    height: 35%;
+  }
+
+  .cover {
+    background-color: rgba(255, 255, 255, 0.2);
+    position: absolute;
+    width: 80%;
+    height: 100px;
+    padding: 0 0 75% 0;
+    margin: 150px 0 0 20vh;
+    border-radius: 30px;
+  }
+  ul {
+    position: fixed;
+    /*display: flex;*/
+    list-style-type: none;
+    margin-top: 20vh;
+    margin-left: 5vh;
+    z-index: 1;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 50px 25px 25px 50px;
+    margin-left: -8vh;
+    margin-top: 10px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+    outline: none;
+  }
+  .Harry {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p1 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    /* background-color: red; */
+    border: 3px double rgb(105, 90, 187);
+  }
+  #one {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg);
+    position: absolute;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Hermoine {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p2 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    /* background-color: red; */
+    border: 3px double rgb(105, 90, 187);
+  }
+  #two {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg);
+    position: absolute;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Ron {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p3 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #three {
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m9wdk1PPue88tPwZAc_cUbdhLw9vb1ftDw&usqp=CAU);
+    position: absolute;
+    background: red;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Dumbledore {
+    position: relative;
+    width: 50em;
+    height: 10em;   
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p4 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #four {
+    content: url(https://images.ctfassets.net/usf1vwtuqyxm/1dmmUJzpRcWaUmMOCu8QwO/7e013145694566076d47fd004fd604c2/AlbusDumbledore_WB_F6_DumbledoreSittingInChair_Promo_080615_Port.jpg?w=1200&fit=fill&f=top);
+    position: absolute;
+    background: red;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Snap {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p5 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #five {
+    content: url(https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c1/Severus-snape1.jpg);
+    position: absolute;
+    background: red;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  table {
+    position: relative;
+    top: 30%;
+  }
+  .cont1 {
+    position: absolute;
+    top: 175vh;
+    width: 40%;
+    height: 80vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+  }
+  .cont2 {
+    position: absolute;
+    top: 175vh;
+    width: 40%;
+    height: 80vh;
+    right: 10%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  textarea {
+    position: relative;
+    padding: 10% 20% 10% 20%;
+    border-radius: 10px;
+  }@media only screen and (max-width: 2560px) and (min-width: 1441px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed center;
+    background-size: 100%;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: -2%;
+    right: 30%;
+    width: 50%;
+    height: 35%;
+  }
+
+  .cover {
+    background-color: rgba(255, 255, 255, 0.2);
+    position: relative;
+    width: 80%;
+    height: 100px;
+    padding: 0 0 75% 0;
+    margin: 400px 0 0 20vh;
+    border-radius: 30px;
+  }
+  ul {
+    position: fixed;
+    list-style-type: none;
+    margin-top: 8vh;
+    margin-left: 12vh;
+    z-index: 1;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 60px 60px 60px 60px;
+    margin-left: -8vh;
+    margin-top: 10px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+    outline: none;
+  }
+  .Harry {
+    position: absolute;
+    width: 95em;
+    height: 20em;
+    margin-left: 10%;
+    margin-top: 4%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p1 {
+    position: absolute;
+    width: 75em;
+    height: 15em;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #one {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg);
+    position: absolute;
+    width: 10em;
+    height: 13em;
+    margin: 3em 0 0 1.5em;
+    border-radius: 30%;
+  }
+  .Hermoine {
+    position: absolute;
+    width: 95em;
+    height: 20em;
+    margin-left: 10%;
+    margin-top: 23%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p2 {
+    position: absolute;
+    width: 75em;
+    height: 15em;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #two {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg);
+    position: absolute;
+    width: 10em;
+    height: 13em;
+    margin: 3em 0 0 1.5em;
+    border-radius: 30%;
+  }
+   .Ron {
+    position: absolute;
+    width: 95em;
+    height: 20em;
+    margin-left: 10%;
+    margin-top: 42%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p3 {
+    position: absolute;
+    width: 75em;
+    height: 15em;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #three {
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m9wdk1PPue88tPwZAc_cUbdhLw9vb1ftDw&usqp=CAU);
+    position: absolute;
+    width: 10em;
+    height: 13em;
+    margin: 3em 0 0 1.5em;
+    border-radius: 30%;
+  }
+ .Dumbledore {
+  position: absolute;
+  width: 95em;
+  height: 20em;
+  margin-left: 10%;
+  margin-top: 61%;
+  background-color: rgb(98, 73, 122);
+  border-radius: 8px;
+  opacity: 0.9;
+  }
+  .p4 {
+    position: absolute;
+    width: 75em;
+    height: 15em;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #four {
+    content: url(https://images.ctfassets.net/usf1vwtuqyxm/1dmmUJzpRcWaUmMOCu8QwO/7e013145694566076d47fd004fd604c2/AlbusDumbledore_WB_F6_DumbledoreSittingInChair_Promo_080615_Port.jpg?w=1200&fit=fill&f=top);
+    position: absolute;
+    width: 10em;
+    height: 13em;
+    margin: 3em 0 0 1.5em;
+    border-radius: 30%;
+  }
+   .Snap {
+    position: absolute;
+    width: 95em;
+    height: 20em;
+    margin-left: 10%;
+    margin-top: 80%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p5 {
+    position: absolute;
+    width: 75em;
+    height: 15em;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #five {
+    content: url(https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c1/Severus-snape1.jpg);
+    position: absolute;
+    width: 10em;
+    height: 13em;
+    margin: 3em 0 0 1.5em;
+    border-radius: 30%;
+  }
+  table {
+    position: relative;
+    top: 30%;
+    }
+  .cont1 {
+    position: absolute;
+    top: 102%;
+    width: 40%;
+    height: 40vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+  }
+  .cont2 {
+    position: absolute;
+    top: 102%;
+    width: 40%;
+    height: 40vh;
+    right: 10%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  textarea {
+    position: relative;
+    padding: 10% 20% 10% 20%;
+    border-radius: 10px;
+  }
+  .bot {
+    position: absolute;
+    width: 90%;
+    height: 25vh;
+    background-color: rgb(39, 41, 43);
+    margin: 125% 40px 0 5%;
+    outline: 12px solid rgb(35, 40, 40);
+  }
+  th { position: relative;
+    padding: 0px 5px 0 32vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 110%;
+    right: 10%;
+  }
+  input {
+    width: 70%;
+  }
+  #ggt {
+    width: 20%;
+  }
+  #munna {
+    font-size: 160%;
+    text-decoration: orange double underline;
+  }
+  button:hover {
+    cursor: pointer;
+  }
+  .chunnu {
+    text-decoration: none;
+    color: black;
+  }
+}
+@media only screen and (max-width: 1440px) and (min-width: 1025px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed center;
+    background-size: 100%;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: -20px;
+    right: 30%;
+    width: 50%;
+    height: 35%;
+  }
+
+  .cover {
+    background-color: rgba(255, 255, 255, 0.2);
+    position: absolute;
+    width: 80%;
+    height: 100px;
+    padding: 0 0 75% 0;
+    margin: 150px 0 0 20vh;
+    border-radius: 30px;
+  }
+  ul {
+    position: fixed;
+    /*display: flex;*/
+    list-style-type: none;
+    margin-top: 20vh;
+    margin-left: 5vh;
+    z-index: 1;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 50px 25px 25px 50px;
+    margin-left: -8vh;
+    margin-top: 10px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+    outline: none;
+  }
+  .Harry {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p1 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    /* background-color: red; */
+    border: 3px double rgb(105, 90, 187);
+  }
+  #one {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg);
+    position: absolute;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Hermoine {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p2 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    /* background-color: red; */
+    border: 3px double rgb(105, 90, 187);
+  }
+  #two {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg);
+    position: absolute;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Ron {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p3 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #three {
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m9wdk1PPue88tPwZAc_cUbdhLw9vb1ftDw&usqp=CAU);
+    position: absolute;
+    background: red;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Dumbledore {
+    position: relative;
+    width: 50em;
+    height: 10em;   
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p4 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #four {
+    content: url(https://images.ctfassets.net/usf1vwtuqyxm/1dmmUJzpRcWaUmMOCu8QwO/7e013145694566076d47fd004fd604c2/AlbusDumbledore_WB_F6_DumbledoreSittingInChair_Promo_080615_Port.jpg?w=1200&fit=fill&f=top);
+    position: absolute;
+    background: red;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  .Snap {
+    position: relative;
+    width: 50em;
+    height: 10em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(98, 73, 122);
+    opacity: 0.9;
+  }
+  .p5 {
+    position: relative;
+    width: 90vh;
+    height: 20vh;
+    top: 8%;
+    left: 22%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #five {
+    content: url(https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c1/Severus-snape1.jpg);
+    position: absolute;
+    background: red;
+    width: 8em;
+    height: 9em;
+    margin: 8px 0 0 8px;
+    border-radius: 30%;
+  }
+  table {
+    position: relative;
+    top: 30%;
+  }
+  .cont1 {
+    position: absolute;
+    top: 175vh;
+    width: 40%;
+    height: 80vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+  }
+  .cont2 {
+    position: absolute;
+    top: 175vh;
+    width: 40%;
+    height: 80vh;
+    right: 10%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  textarea {
+    position: relative;
+    padding: 10% 20% 10% 20%;
+    border-radius: 10px;
+  }
+  .bot {
+    position: absolute;
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(39, 41, 43);
+    margin: 60% 40px 0 0;
+    outline: 12px solid rgb(35, 40, 40);
+  }
+  th {
+    padding: 0px 5px 0 32vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 70%;
+  }
+  input {
+    width: 70%;
+  }
+  #ggt {
+    width: 20%;
+  }
+  #munna {
+    font-size: 160%;
+    text-decoration: orange double underline;
+  }
+button:hover {
+  background-color: #353433;
+  cursor: pointer;
+}
+.chunnu {
+  text-decoration: none;
+  color: black;
+}
+}
+ @media only screen and (max-width: 1023px) and (min-width: 769px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed;
+    background-size: 100%;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: 0%;
+    right: 30%;
+    width: 50%;
+    height: 35%;
+  }
+
+  .cover {
+    background-color: rgba(255, 255, 255, 0.2);
+    position: relative;
+    width: 80%;
+    height: 100px;
+    padding: 0 0 75% 0;
+    margin: 18.5% 0 0 20vh;
+    border-radius: 30px;
+  }
+   ul {
+    position: fixed;
+    list-style-type: none;
+    margin-top: 0;
+    margin-left: 12vh;
+    z-index: 1;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 30px 30px 30px 30px;
+    margin-left: -13vh;
+    margin-top: 10px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+    outline: none;
+  }
+  .Harry {
+    position: absolute;
+    width: 100%;
+    height: 1em;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p1 {
+    position: absolute;
+    width: 30em;
+    height: 5em;
+    top: 15%;
+    left: 19%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #one {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg);
+    position: absolute;
+    width: 5em;
+    height: 6em;
+    margin: 1em 0 0 1em;
+    border-radius: 30%;
+  }
+ .Hermoine {
+  position: absolute;
+  width: 40em;
+  height: 8em;
+  margin-left: 10%;
+  margin-top: 25%;
+  background-color: rgb(98, 73, 122);
+  border-radius: 8px;
+  opacity: 0.9;
+  }
+  .p2 {
+    position: absolute;
+    width: 30em;
+    height: 5em;
+    top: 15%;
+    left: 19%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #two {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg);
+    position: absolute;
+    width: 5em;
+    height: 6em;
+    margin: 1em 0 0 1em;
+    border-radius: 30%;
+  }
+   .Ron {
+    position: absolute;
+    width: 40em;
+    height: 8em;
+    margin-left: 10%;
+    margin-top: 45%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p3 {
+    position: absolute;
+    width: 30em;
+    height: 5em;
+    top: 15%;
+    left: 19%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #three {
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m9wdk1PPue88tPwZAc_cUbdhLw9vb1ftDw&usqp=CAU);
+    position: absolute;
+    width: 5em;
+    height: 6em;
+    margin: 1em 0 0 1em;
+    border-radius: 30%;
+  }
+ .Dumbledore {
+  position: absolute;
+  width: 40em;
+  height: 8em;
+  margin-left: 10%;
+  margin-top: 65%;
+  background-color: rgb(98, 73, 122);
+  border-radius: 8px;
+  opacity: 0.9;
+  }
+  .p4 {
+    position: absolute;
+    width: 30em;
+    height: 5em;
+    top: 15%;
+    left: 19%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #four {
+    content: url(https://images.ctfassets.net/usf1vwtuqyxm/1dmmUJzpRcWaUmMOCu8QwO/7e013145694566076d47fd004fd604c2/AlbusDumbledore_WB_F6_DumbledoreSittingInChair_Promo_080615_Port.jpg?w=1200&fit=fill&f=top);
+    position: absolute;
+    width: 5em;
+    height: 6em;
+    margin: 1em 0 0 1em;
+    border-radius: 30%;
+  }
+   .Snap {
+    position: absolute;
+    width: 40em;
+    height: 8em;
+    margin-left: 10%;
+    margin-top: 85%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p5 {
+    position: absolute;
+    width: 30em;
+    height: 5em;
+    top: 15%;
+    left: 19%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 3px double rgb(105, 90, 187);
+  }
+  #five {
+    content: url(https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c1/Severus-snape1.jpg);
+    position: absolute;
+    width: 5em;
+    height: 6em;
+    margin: 1em 0 0 1em;
+    border-radius: 30%;
+  }
+  p{
+    font-size: 11px;
+  }
+   table {
+    position: relative;
+    top: 30%;
+    
+  }
+  .cont1 {
+    position: absolute;
+    top: 153vh;
+    width: 40%;
+    height: 45vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+  }
+  .cont2 {
+    position: absolute;
+    top: 153vh;
+    width: 40%;
+    height: 45vh;
+    right: 10%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  textarea {
+    position: relative;
+    padding: 10% 20% 10% 20%;
+    border-radius: 10px;
+  }
+ .word{
+   position: absolute;
+   font-size: 60%;
+   left: 10%;
+   margin-top: -10%;
+   word-spacing: 0px;
+   font-stretch: semi-condensed;
+
+  }
+  .writ{
+    position: absolute;
+    width: 60%;
+    margin-top: -55px;
+    margin-left: -8vh;
+    border-radius: 4px;
+  }
+  .area
+  {position: absolute;
+    width: 30%;
+    height: 5px;
+    margin-top: -13vh;
+    margin-left: -12vh;
+
+  }
+  #ggt {
+    position: absolute;
+    width: 20%;
+    margin: -3vh 0 0 2vh;
+    font-size: 70%;
+
+  }
+  .cont{
+    position: relative;
+    top: -3vh;
+  }
+  .bot {
+    position: absolute;
+    width: 90%;
+    height: 21vh;
+    background-color: rgb(39, 41, 43);
+    margin: 145% 0 0 7vh;
+    outline: 12px solid rgb(35, 40, 40);
+  }
+  th { position: relative;
+    padding: 0px 5px 0 32vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 110%;
+    right: 10%;
+  }
+
+#munna { position: absolute;
+    top: -6vh;
+    font-size: 70%;
+    text-decoration: orange double underline;
+  }
+ 
+.tabb{position: relative;
+  top: 4vh;
+      font-size: 50%;
+}
+}
+@media only screen and (max-width: 768px) and (min-width: 426px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: auto;
+    background-color: black;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: -2%;
+    right: 30%;
+    width: 50%;
+    height: 20%;
+  }
+  ul {
+    position: absolute;
+    list-style-type: none;
+    margin-top: -9vh;
+    float: right;
+    display: flex;
+  }
+  li {
+    position: relative;
+    margin-right: 9vh;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 20px 20px 20px 20px;
+    margin-left: 13vh;
+    margin-top: -29px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+    outline: none;
+  }
+  .cover {
+    background-color: rgba(255, 255, 255, 0.2);
+    position: relative;
+    width: 100%;
+    height: 150%;
+    padding: 0 0 205% 0;
+    margin: 35vh 0 0 0;
+    border-radius: 30px;
+  }
+  .Harry {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 6%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p1 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 19px;
+  }
+  #one {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 2.8em 0 0 0;
+    border-radius: 30%;
+  }
+  .Hermoine {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 45%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p2 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 19px;
+  }
+  #two {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 2.8em 0 0 0;
+    border-radius: 30%;
+  }
+  .Ron {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 84%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p3 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 19px;
+  }
+  #three {
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m9wdk1PPue88tPwZAc_cUbdhLw9vb1ftDw&usqp=CAU);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 2.8em 0 0 0;
+    border-radius: 30%;
+  }
+  .Dumbledore {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 124%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p4 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 19px;
+  }
+  #four {
+    content: url(https://images.ctfassets.net/usf1vwtuqyxm/1dmmUJzpRcWaUmMOCu8QwO/7e013145694566076d47fd004fd604c2/AlbusDumbledore_WB_F6_DumbledoreSittingInChair_Promo_080615_Port.jpg?w=1200&fit=fill&f=top);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 2.8em 0 0 0;
+    border-radius: 30%;
+  }
+  .Snap {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 164%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p5 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 19px;
+  }
+  #five {
+    content: url(https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c1/Severus-snape1.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 2.8em 0 0 0;
+    border-radius: 30%;
+  }
+
+  .cont1 {
+    position: absolute;
+    top: 102%;
+    width: 50%;
+    height: 50vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+    font-size: 60%;
+  }
+  input {
+    width: 50%;
+  }
+  .cont2 {
+    position: absolute;
+    top: 102%;
+    width: 50%;
+    height: 50vh;
+    right: 0%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  textarea {
+    position: relative;
+    padding: 10% 0% 0% 0%;
+    border-radius: 10px;
+  }
+  .bot {
+    position: absolute;
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(39, 41, 43);
+    margin: 250% 40px 0 0%;
+    outline: 12px solid rgb(35, 40, 40);
+  }
+  table {
+    position: relative;
+    top: 20%;
+    left: 17%;
+    }
+  th {
+    position: relative;
+    padding: 0px 30px 0 12vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 60%;
+  }
+
+  #ggt {
+    width: 20%;
+  }
+  #munna {
+    font-size: 160%;
+    text-decoration: orange double underline;
+  }
+  button:hover {
+    cursor: pointer;
+  }
+  .chunnu {
+    text-decoration: none;
+    color: black;
+  }
+}
+@media only screen and (max-width: 425px) and (min-width: 376px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: auto;
+    background-color: black;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: -2%;
+    right: 30%;
+    width: 50%;
+    height: 20%;
+  }
+  ul {
+    position: absolute;
+    list-style-type: none;
+    margin-top: -8vh;
+    float: right;
+    display: flex;
+  }
+  li {
+    position: relative;
+    margin-right: 9vh;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    margin-left: 1vh;
+    margin-top: 10px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+    outline: none;
+  }
+  .cover {
+    background-color: rgba(255, 255, 255, 0.2);
+    position: relative;
+    width: 100%;
+    height: 150%;
+    padding: 0 0 205% 0;
+    margin: 120px 0 0 0;
+    border-radius: 30px;
+  }
+  .Harry {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 6%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p1 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 10px;
+  }
+  #one {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.4em 0 0 0;
+    border-radius: 30%;
+  }
+  .Hermoine {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 45%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p2 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 10px;
+  }
+  #two {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.4em 0 0 0;
+    border-radius: 30%;
+  }
+  .Ron {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 84%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p3 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 10px;
+  }
+  #three {
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m9wdk1PPue88tPwZAc_cUbdhLw9vb1ftDw&usqp=CAU);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.4em 0 0 0;
+    border-radius: 30%;
+  }
+  .Dumbledore {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 124%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p4 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 10px;
+  }
+  #four {
+    content: url(https://images.ctfassets.net/usf1vwtuqyxm/1dmmUJzpRcWaUmMOCu8QwO/7e013145694566076d47fd004fd604c2/AlbusDumbledore_WB_F6_DumbledoreSittingInChair_Promo_080615_Port.jpg?w=1200&fit=fill&f=top);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.4em 0 0 0;
+    border-radius: 30%;
+  }
+  .Snap {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 164%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p5 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 10px;
+  }
+  #five {
+    content: url(https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c1/Severus-snape1.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.4em 0 0 0;
+    border-radius: 30%;
+  }
+
+  .cont1 {
+    position: absolute;
+    top: 102%;
+    width: 50%;
+    height: 40vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+    font-size: 40%;
+  }
+  input {
+    width: 50%;
+  }
+  .cont2 {
+    position: absolute;
+    top: 102%;
+    width: 50%;
+    height: 40vh;
+    right: 0%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  textarea {
+    position: relative;
+    padding: 10% 0% 0% 0%;
+    border-radius: 10px;
+  }
+  .bot {
+    position: absolute;
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(39, 41, 43);
+    margin: 270% 40px 0 0%;
+    outline: 12px solid rgb(35, 40, 40);
+  }
+  table {
+    position: relative;
+    top: 20%;
+  }
+  th {
+    position: relative;
+    padding: 0px 5px 0 12vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 45%;
+  }
+
+  #ggt {
+    width: 20%;
+  }
+  #munna {
+    font-size: 160%;
+    text-decoration: orange double underline;
+  }
+  button:hover {
+    cursor: pointer;
+  }
+  .chunnu {
+    text-decoration: none;
+    color: black;
+  }
+}
+@media only screen and (max-width: 375px) and (min-width: 321px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: auto;
+    background-color: black;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: -2%;
+    right: 30%;
+    width: 50%;
+    height: 20%;
+  }
+  ul {
+    position: absolute;
+    list-style-type: none;
+    margin-top: -8vh;
+    float: right;
+    display: flex;
+  }
+  li {
+    position: relative;
+    margin-right: 7vh;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    margin-left: 1vh;
+    margin-top: 10px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+    outline: none;
+  }
+  .cover {
+    background-color: rgba(255, 255, 255, 0.2);
+    position: relative;
+    width: 100%;
+    height: 150%;
+    padding: 0 0 205% 0;
+    margin: 120px 0 0 0;
+    border-radius: 30px;
+  }
+  .Harry {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 6%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p1 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 9px;
+  }
+  #one {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.2em 0 0 0;
+    border-radius: 30%;
+  }
+  .Hermoine {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 45%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p2 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 9px;
+  }
+  #two {
+    content: url(https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.2em 0 0 0;
+    border-radius: 30%;
+  }
+  .Ron {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 84%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p3 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 9px;
+  }
+  #three {
+    content: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3m9wdk1PPue88tPwZAc_cUbdhLw9vb1ftDw&usqp=CAU);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.2em 0 0 0;
+    border-radius: 30%;
+  }
+  .Dumbledore {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 124%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p4 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 9px;
+  }
+  #four {
+    content: url(https://images.ctfassets.net/usf1vwtuqyxm/1dmmUJzpRcWaUmMOCu8QwO/7e013145694566076d47fd004fd604c2/AlbusDumbledore_WB_F6_DumbledoreSittingInChair_Promo_080615_Port.jpg?w=1200&fit=fill&f=top);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.2em 0 0 0;
+    border-radius: 30%;
+  }
+  .Snap {
+    position: absolute;
+    width: 100%;
+    height: 16%;
+    margin-top: 164%;
+    background-color: rgb(98, 73, 122);
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  .p5 {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    top: 10%;
+    left: 15%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border: 2px double rgb(105, 90, 187);
+    font-size: 9px;
+  }
+  #five {
+    content: url(https://static.wikia.nocookie.net/warner-bros-entertainment/images/c/c1/Severus-snape1.jpg);
+    position: absolute;
+    width: 13%;
+    height: 55%;
+    margin: 1.2em 0 0 0;
+    border-radius: 30%;
+  }
+
+  .cont1 {
+    position: absolute;
+    top: 102%;
+    width: 50%;
+    height: 35vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+    font-size: 30%;
+  }
+  input {
+    width: 50%;
+  }
+  .cont2 {
+    position: absolute;
+    top: 102%;
+    width: 50%;
+    height: 35vh;
+    right: 0%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  textarea {
+    position: relative;
+    padding: 10% 0% 0% 0%;
+    border-radius: 10px;
+  }
+  .bot {
+    position: absolute;
+    width: 100%;
+    height: 21vh;
+    background-color: rgb(39, 41, 43);
+    margin: 270% 40px 0 0%;
+    outline: 12px solid rgb(35, 40, 40);
+  }
+  table {
+    position: relative;
+    top: 20%;
+  }
+  th {
+    position: relative;
+    padding: 0px 5px 0 12vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 40%;
+  }
+
+  #ggt {
+    width: 20%;
+  }
+  #munna {
+    font-size: 160%;
+    text-decoration: orange double underline;
+  }
+  button:hover {
+    cursor: pointer;
+  }
+  .chunnu {
+    text-decoration: none;
+    color: black;
+  }
+}
+  .bot {
+    position: absolute;
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(39, 41, 43);
+    margin: 60% 40px 0 0;
+    outline: 12px solid rgb(35, 40, 40);
+  }
+  th {
+    padding: 0px 5px 0 32vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 70%;
+  }
+  input {
+    width: 70%;
+  }
+  #ggt {
+    width: 20%;
+  }
+  #munna {
+    font-size: 160%;
+    text-decoration: orange double underline;
+  }
+button:hover {
+  background-color: #353433;
+  cursor: pointer;
+}
+.chunnu {
+  text-decoration: none;
+  color: black;
+}
+}
+
+
+
+
+

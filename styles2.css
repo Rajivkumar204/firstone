@@ -1,0 +1,136 @@
+@media only screen and (max-width: 1500px) and (min-width: 1000px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(https://wallpapercave.com/wp/wp2600477.jpg) fixed center;
+    background-size: 100%;
+  }
+  .logo {
+    position: absolute;
+    content: url(https://i.pinimg.com/originals/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.png);
+    top: -20px;
+    right: 30%;
+    width: 50%;
+    height: 35%;
+  }
+
+  .cover {
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    width: 80%;
+    height: 100px;
+    padding: 0 0 75% 0;
+    margin: 150px 0 0 20vh;
+    border-radius: 30px;
+  }
+  /* .pic{content: url(https://api.time.com/wp-content/uploads/2014/07/301386_full1.jpg);
+    position: absolute;
+    width: 30vh;
+    height: 40vh;
+    top: 1.8% ;
+    left: 2%;
+  z-index: 1;
+  } */
+  .poo{position: relative;
+    left: 5vh;
+    width: 75%;
+    height: 45vh;
+    font-size: 20px;
+    /* background-color: lawngreen; */
+
+  }
+  .pooo{
+    position: absolute;
+    top: 28%;
+    left: 1%;
+    width: 97.2%;
+    height: 40vh;
+    color: rgb(0, 0, 0) ;
+    /* text-shadow: 1px 1px black; */
+    font-size: 20px;
+    /* s */
+  }
+  #photu{position: relative;
+    left: 20px;
+    width: 20%;
+    height: 29%;
+  }
+  .bout{
+    position: relative;
+    width: 95%;
+    height: 160vh;
+    /* background-color: red; */
+    left: 2%;
+    top:20%;
+    display: flex;
+    flex-flow: row;
+  }
+  ul {
+    position: fixed;
+    /*display: flex;*/
+    list-style-type: none;
+    margin-top: 20vh;
+    margin-left: 5vh;
+    z-index: 1;
+  }
+  button {
+    background-image: url(https://wallpapercave.com/wp/njHhZgk.jpg);
+    position: relative;
+    padding: 50px 25px 25px 50px;
+    margin-left: -8vh;
+    margin-top: 10px;
+    background-color: #8f7b77;
+    border-radius: 50%;
+	outline: none;
+    /*	font-family: poppins;
+		font-size: 20px;
+		text-shadow: 0 0 5px red;*/
+  }
+  table {
+    position: relative;
+    top: 30%;
+  }
+  .cont1 {
+    position: absolute;
+    top: 175vh;
+    width: 40%;
+    height: 80vh;
+    right: 50%;
+    background-color: rgb(60, 80, 80);
+    text-align: center;
+  }
+  .cont2 {
+    position: absolute;
+    top: 175vh;
+    width: 40%;
+    height: 80vh;
+    right: 10%;
+    background-color: rgb(31, 54, 54);
+    text-align: center;
+  }
+  .bot {
+    position: absolute;
+    width: 80%;
+    height: 25vh;
+    background-color: rgb(39, 41, 43);
+    margin: 95% 1px 0 20vh;
+	outline: 12px solid rgb(35, 40, 40);
+  }
+  /* th {
+    padding: 0px 5px 0 32vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    font-size: 70%;
+  } */
+  #ggt {
+    width: 20%;
+  }
+  #munna {
+    font-size: 160%;
+    text-decoration: orange double underline;
+  }
+/* .chunnu{
+  text-decoration: none;
+  color: black;
+} */
+}
